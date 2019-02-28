@@ -7,6 +7,8 @@ Project content
 
 This project consists for the following files are:
 
-css
+
 README.md - information about project
-index.html
+fresh_tomatoes.py
+movie_entertainment.py
+moviemedia.py
