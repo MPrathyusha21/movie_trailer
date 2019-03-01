@@ -16,5 +16,5 @@ This project consists for the following files are:
 1. Install Python
 2. Clone the project to your local environment
 3. Open a shell interface and move to the project directory
-4. Execute python entertainment_center.py
+4. Execute python movie_entertainment.py
 5. The website is now displayed on your default web browser
