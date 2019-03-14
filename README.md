@@ -174,7 +174,7 @@ sudo apt-get upgrade
 - Go to [Google Cloud Plateform](https://console.cloud.google.com/).
 - Click `APIs & services` on left menu.
 - Click `Credentials`.
-- Create an OAuth Client ID (under the Credentials tab), and add http://54.198.42.182.xip.io/and 
+- Create an OAuth Client ID (under the Credentials tab), and add http://54.198.42.182.xip.io/    
 http://ec2-54-198-42-182.compute-1.amazonaws.com/ as authorized JavaScript 
 origins.
 - Add http://54.198.42.182.xip.io/login,http://54.198.42.182.xip.io/gconnect,http://54.198.42.182.xip.io/callback
