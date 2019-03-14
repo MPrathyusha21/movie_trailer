@@ -215,6 +215,7 @@ as authorized redirect URI.
   Configure and enable a new virtual host
   - Run this: `sudo vi /etc/apache2/sites-available/catalog.conf`
   - Paste this code: 
+  
   ```
   <VirtualHost *:80>
       ServerName 54.198.42.182.xip.io
@@ -237,6 +238,7 @@ as authorized redirect URI.
       CustomLog ${APACHE_LOG_DIR}/access.log combined
   </VirtualHost>
   ```
+  
   - Enable the virtual host `sudo a2ensite catalog`
 
   Enabling site catalog.
