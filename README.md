@@ -201,8 +201,7 @@ as authorized redirect URI.
   pip install flask
   sudo apt-get install libpq-dev
   pip install psycopg2-binary
-  ```
-  ```
+
   sudo -H pip3 install httplib2
 sudo -H pip3 install requests
 sudo -H pip3 install --upgrade oauth2client
