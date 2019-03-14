@@ -209,6 +209,7 @@ as authorized redirect URI.
  sudo apt-get install libpq-dev
  sudo -H pip3 install psycopg2-binary 
   ```
+  ```
 
 ### Step 13.2: Set up and enable a virtual host
 
@@ -237,6 +238,7 @@ as authorized redirect URI.
       LogLevel warn
       CustomLog ${APACHE_LOG_DIR}/access.log combined
   </VirtualHost>
+  
   ```
   
   - Enable the virtual host `sudo a2ensite catalog`
