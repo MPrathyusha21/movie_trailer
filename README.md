@@ -201,14 +201,13 @@ as authorized redirect URI.
   pip install flask
   sudo apt-get install libpq-dev
   pip install psycopg2-binary
-
   sudo -H pip3 install httplib2
-sudo -H pip3 install requests
-sudo -H pip3 install --upgrade oauth2client
-sudo -H pip3 install sqlalchemy
-sudo -H pip3 install flask
-sudo apt-get install libpq-dev
-sudo -H pip3 install psycopg2-binary
+  sudo -H pip3 install requests
+  sudo -H pip3 install --upgrade oauth2client
+  sudo -H pip3 install sqlalchemy
+  sudo -H pip3 install flask
+ sudo apt-get install libpq-dev
+ sudo -H pip3 install psycopg2-binary 
   ```
 
 ### Step 13.2: Set up and enable a virtual host
